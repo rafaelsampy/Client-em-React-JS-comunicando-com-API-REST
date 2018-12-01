@@ -1,0 +1,92 @@
+.orientation-login {
+	max-width: 700px;
+	margin: 20px auto 0;
+	padding: 0 20px;
+}
+
+.orientation-login form{
+	background: #fff;
+	border-radius: 1px solid #ddd;
+	padding: 5px;
+	margin-bottom:20px;
+	border: 5px solid #104170;
+	padding: 20px;
+}
+
+.orientation-login form p{
+	font-size: 16px;
+	color: #000;
+	margin-top: 5px;
+	line-height: 24px;
+}
+
+.orientation-login form a{
+	height: 42px;
+	border-radius: 5px;
+	border: 2px solid #104170;
+	background: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #104170;
+	font-weight: bolder;
+	font-size: 16px;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: all 0.2s;
+}
+
+.orientation-login form a:hover{
+	background: #104170;
+	color: #fff;
+}
+
+.orientation-login form input{
+	width: 100%;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	height: 30px;
+	border-radius: 5px;
+	border: 1px solid #104170;
+}
+
+.orientation-login form textarea{
+	width: 100%;
+	color: #000;
+	border-radius: 5px;
+	border: 1px solid #104170;
+}
+
+.orientation-login h1{
+	color: #104170;
+	margin-bottom: 30px;
+}
+
+.orientation-login h2{
+	color: #104170;
+	margin-bottom: 10px;
+}
+
+.loginOrientation {
+	height: 42px;
+	border-radius: 5px;
+	border: 2px solid #28a745;
+	background: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #28a745;
+	font-weight: bolder;
+	font-size: 16px;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: all 0.2s;
+}
+
+.loginOrientation:hover{
+	background: #28a745;
+	color: #fff;
+}

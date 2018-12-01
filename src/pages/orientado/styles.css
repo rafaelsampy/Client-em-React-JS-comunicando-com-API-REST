@@ -1,0 +1,105 @@
+.orientation-list {
+	max-width: 700px;
+	margin: 20px auto 0;
+	padding: 0 20px;
+}
+
+.orientation-list form{
+	background: #fff;
+	border-radius: 1px solid #ddd;
+	padding: 5px;
+	margin-bottom:20px;
+	border: 5px solid #104170;
+	padding: 20px;
+}
+
+.orientation-list form p{
+	font-size: 16px;
+	color: #000;
+	margin-top: 5px;
+	line-height: 24px;
+}
+
+.orientation-list form a{
+	height: 42px;
+	border-radius: 5px;
+	border: 2px solid #104170;
+	background: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #104170;
+	font-weight: bolder;
+	font-size: 16px;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: all 0.2s;
+}
+
+.orientation-list form a:hover{
+	background: #104170;
+	color: #fff;
+}
+
+.orientation-list form input{
+	width: 100%;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	height: 30px;
+	border-radius: 5px;
+	border: 1px solid #104170;
+}
+
+.orientation-list form textarea{
+	width: 100%;
+	color: #000;
+	border-radius: 5px;
+	border: 1px solid #104170;
+}
+
+.orientation-list h1{
+	color: #104170;
+	margin-bottom: 30px;
+}
+
+.orientation-list h2{
+	color: #104170;
+	margin-bottom: 10px;
+}
+
+.listOrientation {
+	height: 42px;
+	border-radius: 5px;
+	border: 2px solid #28a745;
+	background: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #28a745;
+	font-weight: bolder;
+	font-size: 16px;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: all 0.2s;
+}
+
+.listOrientation:hover{
+	background: #28a745;
+	color: #fff;
+}
+
+header#main-headerg {
+	width: 100%;
+	height: 60px;
+	padding: 10px;
+	background: #007bff;
+	font-size: 25px;
+	font-weight: bold;
+	color: #fff;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}
